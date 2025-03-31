@@ -1,22 +1,29 @@
-{
-	"tokenid": 0,
-	"image": "https://github.com/FreedomRunnersIO/NAC22Events/main/0.png",
-	"external_url": "https://www.freedomrunners.io",
-	"name": "NAC PFP Claim Token",
-	"description": "This token represents the ability to claim 1 future pfp token that will be dropped by the NFT Athletic Community.",
-	"attributes": [{
-		"trait_type": "Token Typetest1",
-		"value": "PFP Claim"
-	}]
-}
-{
-	"tokenid": 1,
-	"image": "https://github.com/FreedomRunnersIO/NAC22Events/main/1.png",
-	"external_url": "https://www.freedomrunners.io",
-	"name": "NAC PFP Claim Token",
-	"description": "This token represents the ability to claim 1 future pfp token that will be dropped by the NFT Athletic Community.",
-	"attributes": [{
-		"trait_type": "Token Typetest2",
-		"value": "PFP Claim"
-	}]
-}
+[
+  {
+    "tokenid": 0,
+    "image": "https://raw.githubusercontent.com/FreedomRunnersIO/NAC22Events/main/0.png",
+    "external_url": "https://www.freedomrunners.io",
+    "name": "NAC PFP Claim Token",
+    "description": "This token represents the ability to claim 1 future PFP token that will be dropped by the NFT Athletic Community.",
+    "attributes": [
+      {
+        "trait_type": "Token Type1",
+        "value": "PFP Claim"
+      }
+    ]
+  },
+  {
+    "tokenid": 1,
+    "image": "https://raw.githubusercontent.com/FreedomRunnersIO/NAC22Events/main/1.png",
+    "external_url": "https://www.freedomrunners.io",
+    "name": "NAC PFP Claim Token",
+    "description": "This token represents the ability to claim 1 future PFP token that will be dropped by the NFT Athletic Community.",
+    "attributes": [
+      {
+        "trait_type": "Token Type2",
+        "value": "PFP Claim"
+      }
+    ]
+  }
+]
+
