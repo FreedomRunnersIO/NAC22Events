@@ -4,10 +4,8 @@
     "external_url": "https://www.freedomrunners.io",
     "name": "NAC PFP Claim Token",
     "description": "This token represents the ability to claim 1 future PFP token that will be dropped by the NFT Athletic Community.",
-    "attributes": [
-      {
+    "attributes": [{
         "trait_type": "Token Type1",
         "value": "PFP Claim"
-      }
-    ]
+      }]
   }
